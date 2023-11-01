@@ -7,7 +7,7 @@
 
 It is slightly simplified implementation of Kim's Convolutional Neural Networks for Sentence Classification paper in Tensorflow.
 
-
+<center><img src="assets/img/text_classification.png"/></center>
 ---
 ### Awesome Machine Learning
 
@@ -15,7 +15,7 @@ It is slightly simplified implementation of Kim's Convolutional Neural Networks 
 
 A curated list of awesome machine learning frameworks, libraries and software (by language). Inspired by awesome-php.
 
-
+<center><img src="assets/img/machine_learning.jpg"/></center>
 
 ---
 
