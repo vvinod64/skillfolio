@@ -5,9 +5,9 @@ description: <div align="center">
   <a href="https://linkedin.com/in/vinod19">LinkedIn</a> |
   <a href="https://github.com/vvinod64">GitHub</a>
    </div>
-<div>
-I'm learner of Artifical Inteligence/Machine Learning.
-I have gained exposure to Big Data technologies, such as Apache Spark and Cassandra.
-I am passionate about creating robust, high-quality software systems and have a strong enthusiasm for continuous learning, keeping up with the latest in technology trends.
-</div>
+  <div>
+    I'm learner of Artifical Inteligence/Machine Learning.
+    I have gained exposure to Big Data technologies, such as Apache Spark and Cassandra.
+    I am passionate about creating robust, high-quality software systems and have a strong enthusiasm for continuous learning, keeping up with the latest in technology trends.
+  </div>
 theme: jekyll-theme-minimal
